@@ -16,5 +16,5 @@ Welcome to my GitHub profile. I'm a developer passionate about technology, alway
 
 ### 📣 Contact Me
 - 📧 ***Email***: mathmo.ura242@gmail.com
-- 🌐 ***LinkedIn***: <a href="https://www.linkedin.com/in/matheus-moura21/">https://www.linkedin.com/in/matheus-moura21/</a>
+- 🌐 ***LinkedIn***: <a href="https://www.linkedin.com/in/matheus-moura21/" target="_blank">https://www.linkedin.com/in/matheus-moura21/</a>
 - 📞***Business mobile***: +55 (11) 99771-7169
