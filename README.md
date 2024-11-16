@@ -15,6 +15,6 @@ Welcome to my GitHub profile. I'm a developer passionate about technology, alway
 ![MathMoura18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathMoura18&theme=vue-dark&hide_border=true)
 
 ### 📣 Contact Me
-📧 ***Email***: mathmo.ura242@gmail.com
-🌐 ***LinkedIn***: <a href="https://www.linkedin.com/in/matheus-moura21/">https://www.linkedin.com/in/matheus-moura21/</a>
-📞***Business mobile***: +55 (11) 99771-7169
+- 📧 ***Email***: mathmo.ura242@gmail.com
+- 🌐 ***LinkedIn***: <a href="https://www.linkedin.com/in/matheus-moura21/">https://www.linkedin.com/in/matheus-moura21/</a>
+- 📞***Business mobile***: +55 (11) 99771-7169
