@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I'm a developer passionate about technology, alway
 - <a href="https://github.com/MathMoura18/TryToBeatChatGPT" target="_blank">***TryToBeatChatGPT***</a>: a minigame that uses OpenAI to guess the word you choose by writing other words.
 
 ### 📈 GitHub Stats
-![MathMoura18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathMoura18&theme=vue-dark&hide_border=true)
+![MathMoura18's Stats](https://github-readme-stats.vercel.app/api?username=MathMoura18&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 ### 📣 Contact Me
 - 📧 ***Email***: mathmo.ura242@gmail.com
